@@ -11,5 +11,5 @@ The dataset used for this project was collected from THE MOVIE DATABASE (TMDB) l
 - Model Development
 - Implementation
 
-## [Click here to view project]()
+## [Click here to view project](https://github.com/Thankgodezugwu/Recommendation-System/blob/main/Recommendation%20System.ipynb)
 
